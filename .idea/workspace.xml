@@ -1,70 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b52320b-45d2-4ab4-b6b2-64dcc62d122a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/Graph/Boggle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/Graph/BridgesINGraph.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/Graph/DijkstraShortestPath.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/Graph/FolydWarshallShortestPath.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/Graph/PrimMinimumSpanningTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/Graph/TopologicalSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/Graph/UnionFindDetectCycle$Edge.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/Graph/UnionFindDetectCycle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/LinkedList/CompareStringsLinkedList$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/LinkedList/CompareStringsLinkedList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/LinkedList/DeleteAGivenNode$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/LinkedList/DeleteAGivenNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/LinkedList/DetectAndRemoveLoop$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/LinkedList/DetectAndRemoveLoop.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/LinkedList/MergerTwoLists$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/LinkedList/MergerTwoLists.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/LinkedList/ReverseLinkedList$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/LinkedList/ReverseLinkedList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/LinkedList/SelectRandomNode$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/LinkedList/SelectRandomNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/LinkedList/SortedInsertLinkedList$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/LinkedList/SortedInsertLinkedList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/LinkedList/SumLinkedList$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/LinkedList/SumLinkedList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/LinkedList/SumListWithCarry$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/LinkedList/SumListWithCarry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/LinkedList/UnionAndIntersection$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/LinkedList/UnionAndIntersection.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/SortingAndSearching/FindKth.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/SortingAndSearching/FindPairSumX.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/SortingAndSearching/InterpolationSearch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/SortingAndSearching/JumpSearch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/SortingAndSearching/SearchSortedRotatedArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/StringAndArray/AllPossiblePalindromicPratitions.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/StringAndArray/AllSortedArrays.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/StringAndArray/CountTriplets.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/StringAndArray/LengthOfLargestSubarray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/StringAndArray/MaxProfit.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/StringAndArray/PythagoreanTriplet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/StringAndArray/ReverseStringWthSepcialChars.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/StringAndArray/SmallestPositiveInteger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/StringAndArray/SmallestSubarray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/StringAndArray/ZigZag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/Trees/CheckArrayForPreorder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/Trees/CheckIFSubtreeISBT$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/Trees/CheckIFSubtreeISBT.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/Trees/CheckIfCompleteBT$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/Trees/CheckIfCompleteBT.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/Trees/LowestCommonAncestor$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/Trees/LowestCommonAncestor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/Trees/MaximumPathSumBT$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/Trees/MaximumPathSumBT.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/Trees/MinimumDepthBT$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/Trees/MinimumDepthBT.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/Trees/PrintNodesBottomView$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/Trees/PrintNodesBottomView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/Trees/PrintNodesTopView$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/Trees/PrintNodesTopView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/Trees/RemoveNodeForGivenLength$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/Trees/RemoveNodeForGivenLength.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/Trees/ReverseAlternateLevels$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GeeksForGeeksProblems/Trees/ReverseAlternateLevels.class" afterPath="" />
-    </list>
+    <list default="true" id="5b52320b-45d2-4ab4-b6b2-64dcc62d122a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -112,8 +49,8 @@
       <file leaf-file-name="DijkstraShortestPath.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Graph/DijkstraShortestPath.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="27" column="81" lean-forward="false" selection-start-line="27" selection-start-column="80" selection-end-line="27" selection-end-column="81" />
+            <state relative-caret-position="450">
+              <caret line="49" column="35" lean-forward="true" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -239,10 +176,6 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Trees" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -313,20 +246,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Graph" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GeeksForGeeksProblems" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GeeksForGeeksProblems" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -853,12 +772,12 @@
       <updated>1495936249513</updated>
       <workItem from="1495936253251" duration="8000" />
       <workItem from="1495936330905" duration="38110000" />
-      <workItem from="1496359776055" duration="16000" />
+      <workItem from="1496359776055" duration="92000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38134000" />
+    <option name="totallyTimeSpent" value="38210000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1261,8 +1180,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Graph/DijkstraShortestPath.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="27" column="81" lean-forward="false" selection-start-line="27" selection-start-column="80" selection-end-line="27" selection-end-column="81" />
+        <state relative-caret-position="450">
+          <caret line="49" column="35" lean-forward="true" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
           <folding />
         </state>
       </provider>
