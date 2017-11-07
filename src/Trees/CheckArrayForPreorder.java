@@ -19,18 +19,17 @@ public class CheckArrayForPreorder {
             if(array[i] < root)
                 return false;
 
-            // If pre[i] is in right subtree of stack top,
-            // Keep removing items smaller than pre[i]
+            // If array[i] is in right subtree of stack top,
+            // Keep removing items smaller than array[i]
             // and make the last removed item as new
             // root.
             while(!stack.isEmpty() && stack.peek() < array[i]){
-                System.out.println(array[i]);
                 root = stack.peek();
                 stack.pop();
             }
 
             // At this point either stack is empty or
-            // pre[i] is smaller than root, push pre[i]
+            // array[i] is smaller than root, push array[i]
             stack.push(array[i]);
         }
 
