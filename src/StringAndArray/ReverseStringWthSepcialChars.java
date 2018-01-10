@@ -5,7 +5,7 @@ import java.util.Stack;
 /**
  * Created by FS047207 on 5/22/2017.
  */
-public class ReverseStringWthSepcialChars {
+public class ReverseStringWthSpecialChars {
 
     /*
     O(n)
@@ -68,7 +68,7 @@ public class ReverseStringWthSepcialChars {
     }
 
     public static void main(String args[]){
-        ReverseStringWthSepcialChars rs = new ReverseStringWthSepcialChars();
+        ReverseStringWthSpecialChars rs = new ReverseStringWthSpecialChars();
         System.out.println(rs.reverseWithSpace("Ab,c,de!$"));
         System.out.println(rs.reverseWithoutSpace("Ab,c,de!$"));
     }
