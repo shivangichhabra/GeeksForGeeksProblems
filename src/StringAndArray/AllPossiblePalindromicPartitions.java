@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * Created by FS047207 on 5/23/2017.
  */
-public class AllPossiblePalindromicPratitions {
+public class AllPossiblePalindromicPartitions {
 
     /*
     High complexity
@@ -67,7 +67,7 @@ public class AllPossiblePalindromicPratitions {
     }
 
     public static void main(String args[]){
-        AllPossiblePalindromicPratitions p = new AllPossiblePalindromicPratitions();
+        AllPossiblePalindromicPartitions p = new AllPossiblePalindromicPartitions();
         p.printAllPalindromes("nitin");
         ArrayList<List<String>> temp = p.printPalindromes("geeksT");
         for(List<String> s : temp){
