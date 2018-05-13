@@ -11,7 +11,7 @@ public class FindKth {
     O(nlog(n))
     Sort and return k-1th
      */
-    public int SmallestKLogN(int[] a, int k){
+    public int SmallestKNLogN(int[] a, int k){
         Arrays.sort(a);
         return a[k-1];
     }
@@ -68,7 +68,7 @@ public class FindKth {
     public static void main(String args[]){
         FindKth k = new FindKth();
         int arr[] = {7, 10, 4, 3, 20, 15};
-        System.out.println(k.SmallestKLogN(arr, 4));
+        System.out.println(k.SmallestKNLogN(arr, 4));
         System.out.println(k.SmallestKN(arr, 4));
     }
 }
