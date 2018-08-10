@@ -45,7 +45,7 @@ public class AllPossiblePalindromicPartitions {
 
         for(int i=start+1; i<=s.length(); i++){
             String str = s.substring(start, i);
-            if(isPalindrom(str)){
+            if(isPalindrome(str)){
                 partition.add(str); //add substring to result
                 addPalindrome(s, i, partition, result);
                 partition.remove(partition.size()-1);  //remove substring from current partition
@@ -53,7 +53,7 @@ public class AllPossiblePalindromicPartitions {
         }
     }
 
-    public boolean isPalindrom(String s){
+    public boolean isPalindrome(String s){
         int i = 0;
         int j = s.length()-1;
         while(i<j){

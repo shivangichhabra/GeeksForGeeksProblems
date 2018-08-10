@@ -19,21 +19,19 @@ public class SelectRandomNode {
 
     Random random = new Random();
 
-    public void findAndPrintRandNum(Node head){
+    public int findAndPrintRandNum(Node head){
         if(head == null)
-            return;
+            return 0;
 
         Node temp = head;
-        int ans = temp.data;
-
         for(int i=1; temp.next != null; i++){
 
             temp = temp.next;
             if((int)(Math.random()*i+1) == i) //new Random().nextInt(i+1) == i or new Random.nextInt(i) == 0 or Math.random()%i == 0
-                 ans = temp.data;
+                 return temp.data;
 
         }
-        System.out.println("Result:" + ans);
+        return 0;
     }
 
     public static void main(String args[]){
@@ -48,6 +46,6 @@ public class SelectRandomNode {
         head.next.next.next.next.next.next.next = new Node(90);
         head.next.next.next.next.next.next.next.next = new Node(46);
 
-        l.findAndPrintRandNum(head);
+        System.out.println(l.findAndPrintRandNum(head));
     }
 }

@@ -35,6 +35,7 @@ public class PrintNodesBottomView {
             Node temp = queue.remove();
 
             hd = temp.hd;
+            //last node at that horizontal distance will stay in map
             map.put(hd, temp.data);
             if(temp.left != null){
                 temp.left.hd = hd-1;

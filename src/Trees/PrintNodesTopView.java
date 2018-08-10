@@ -36,6 +36,7 @@ public class PrintNodesTopView {
 
             hd = temp.hd;
 
+            //first node at that horizontal distance will stay in map
             if(!map.containsKey(hd)){
                 map.put(hd, temp.data);
             }
@@ -49,7 +50,6 @@ public class PrintNodesTopView {
                 queue.add(temp.right);
             }
         }
-
 
         for(int m : map.values()){
             System.out.print(m + "  ");

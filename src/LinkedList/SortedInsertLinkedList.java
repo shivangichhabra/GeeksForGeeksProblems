@@ -33,11 +33,11 @@ public class SortedInsertLinkedList {
 
     public void sortedInsert(int data){
         Node temp = new Node(data);
-        Node current = head;
         if(head == null){
             head = temp;
         } else {
-            while(current.next != null && current.data < data ){
+            Node current = head;
+            while(current != null && current.data < data ){
                 current = current.next;
             }
             temp.next = current.next;
